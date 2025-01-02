@@ -31,6 +31,25 @@ Welcome to my GitHub profile! I am a dedicated **Full-Stack Software Developer**
 
 ---
 
+## 🛠️ Technologies I Work With
+
+Here are some of the technologies and tools I use regularly:
+
+| Technology         | Icon                                                                                     |
+|--------------------|------------------------------------------------------------------------------------------|
+| Java              | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| C#                | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) |
+| ReactJS           | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| AngularJS         | ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) |
+| TypeScript        | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| Swift             | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
+| MongoDB           | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| MySQL             | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| Oracle            | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+| CSS               | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+
+---
+
 ## 🚀 Why Choose Me?
 
 - **Versatility:** Proficient across multiple programming languages and platforms
